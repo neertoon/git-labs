@@ -14,6 +14,7 @@ class SecoundClass
     public function secound() {
         $var = 1;
         $zmianaPoMerguFeature2 = '';
+        $commit4 = '';
     }
 
     public function third() {
