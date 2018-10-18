@@ -8,6 +8,7 @@ class SecoundClass
         $terazZabawaWReverty = '';
         $zrobmyCommit1 = '';
         $zrobmyCommit2 = '';
+        $zrobmyCommit3 = '';
     }
 
     public function secound() {
