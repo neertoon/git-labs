@@ -12,6 +12,7 @@ class FirstClass
     public function secound() {
         //some code 2
         $var = 2;
+        $poMerguDodajeTutajCos = '';
     }
     
     public function third() {
