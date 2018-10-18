@@ -17,5 +17,9 @@ class FirstClass
     public function third() {
         //sobe code 3
         $var = 3;
+        $addSomeCodeToFeature1 = '';
+        $addSomeCodeToFeature1_1 = '';
+        $addSomeCodeToFeature1_2 = '';
+        $addSomeCodeToFeature1_3 = '';
     }
 }
