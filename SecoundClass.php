@@ -9,6 +9,7 @@ class SecoundClass
         $zrobmyCommit1 = '';
         $zrobmyCommit2 = '';
         $zrobmyCommit3 = '';
+        $commit5 = '';
     }
 
     public function secound() {
