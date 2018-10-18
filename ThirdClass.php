@@ -15,6 +15,7 @@ class ThirdClass
 
     public function secound() {
         $var = 2;
+        $nowaFunkcjonalnoscPoMergeKtoraNieMaZwiazkuZOdbiorami = '';
     }
 
     public function third() {
