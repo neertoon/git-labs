@@ -15,5 +15,6 @@ class SecoundClass
         $var = 1;
         $zmiana1 = '';
         $zmiana2 = '';
+        $zmiana3 = '';
     }
 }
