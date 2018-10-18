@@ -20,5 +20,6 @@ class FirstClass
         $addSomeCodeToFeature1 = '';
         $addSomeCodeToFeature1_1 = '';
         $addSomeCodeToFeature1_2 = '';
+        $addSomeCodeToFeature1_3 = '';
     }
 }
