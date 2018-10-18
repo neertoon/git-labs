@@ -17,5 +17,6 @@ class FirstClass
         //sobe code 3
         $var = 3;
         $addSomeCodeToFeature1 = '';
+        $addSomeCodeToFeature1_1 = '';
     }
 }
