@@ -7,6 +7,7 @@ class SecoundClass
         $zmianaWMiedzyCzasieFeature2 = '';
         $terazZabawaWReverty = '';
         $zrobmyCommit1 = '';
+        $zrobmyCommit2 = '';
     }
 
     public function secound() {
