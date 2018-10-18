@@ -6,6 +6,7 @@ class FirstClass
     public function first() {
         //some code 1
         $var = 1;
+        $inMeanTimeIAddNewCodeToMaster = '';
     }
     
     public function secound() {
