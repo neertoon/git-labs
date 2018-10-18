@@ -9,6 +9,7 @@ class SecoundClass
 
     public function secound() {
         $var = 1;
+        $zmianaPoMerguFeature2 = '';
     }
 
     public function third() {
