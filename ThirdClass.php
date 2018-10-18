@@ -18,5 +18,6 @@ class ThirdClass
 
     public function third() {
         $var = 3;
+        $zmiana1 = '';
     }
 }
