@@ -10,6 +10,7 @@ class ThirdClass
 {
     public function first() {
         $var = 1;
+        $robieZmianeWMaster = '';
     }
 
     public function secound() {
