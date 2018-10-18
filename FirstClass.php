@@ -18,5 +18,6 @@ class FirstClass
         $var = 3;
         $addSomeCodeToFeature1 = '';
         $addSomeCodeToFeature1_1 = '';
+        $addSomeCodeToFeature1_2 = '';
     }
 }
