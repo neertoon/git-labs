@@ -6,6 +6,7 @@ class SecoundClass
         $var = 1;
         $zmianaWMiedzyCzasieFeature2 = '';
         $terazZabawaWReverty = '';
+        $zrobmyCommit1 = '';
     }
 
     public function secound() {
