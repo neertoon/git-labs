@@ -4,6 +4,7 @@ class SecoundClass
 {
     public function first() {
         $var = 1;
+        $zmianaWMiedzyCzasieFeature2 = '';
     }
 
     public function secound() {
