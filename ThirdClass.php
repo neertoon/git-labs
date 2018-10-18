@@ -11,6 +11,7 @@ class ThirdClass
     public function first() {
         $var = 1;
         $robieZmianeWMaster = '';
+        $zmianaKolejna = '';
     }
 
     public function secound() {
