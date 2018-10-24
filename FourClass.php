@@ -9,6 +9,7 @@ class FourClass
 
     public function secound() {
         $var = 2;
+        $wMiedzyCzasieCosKodzimy = '';
     }
 
     public function third() {
