@@ -5,6 +5,7 @@ class FourClass
     public function first() {
         $var = 1;
         $dodajeDoMastera = '';
+        $releaseTuPoprawa = '';
     }
 
     public function secound() {
