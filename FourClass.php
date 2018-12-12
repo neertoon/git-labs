@@ -6,9 +6,11 @@ class FourClass
         $var = 1;
         $dodajeDoMastera = '';
         $releaseTuPoprawa = '';
+        $releaseKolejnaPoprawa2 = '';
     }
 
     public function secound() {
+        $releaseAtuPosypie = '';
         $var = 2;
         $wMiedzyCzasieCosKodzimy = '';
         $znowuZmianyMaster = '';
