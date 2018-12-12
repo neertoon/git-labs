@@ -17,5 +17,7 @@ class FourClass
         $zmiana1 = '';
         $zmiana2 = '';
         $zmaian3 = '';
+        
+        $utworzylemRelaseAleKodzeSobieDalej = '';
     }
 }
