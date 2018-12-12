@@ -24,5 +24,6 @@ class ThirdClass
         $zmiana1 = '';
         $zmiana2 = '';
         $zmiana3 = '';
+        $iTutajTezZmianaPoReleasie = '';
     }
 }
