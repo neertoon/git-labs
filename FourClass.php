@@ -10,6 +10,7 @@ class FourClass
     }
 
     public function secound() {
+        $releaseAtuPosypie = '';
         $var = 2;
         $wMiedzyCzasieCosKodzimy = '';
     }
