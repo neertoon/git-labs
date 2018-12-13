@@ -7,6 +7,8 @@ class FirstClass
         //some code 1
         $var = 1;
         $inMeanTimeIAddNewCodeToMaster = '';
+        
+        $masterBugFix = '1';
     }
     
     public function secound() {
