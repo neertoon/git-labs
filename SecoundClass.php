@@ -8,6 +8,7 @@ class SecoundClass
 
     public function secound() {
         $var = 1;
+        $bugFix1850 = '';
     }
 
     public function third() {
