@@ -3,6 +3,7 @@
 class SecoundClass
 {
     public function first() {
+        $bugFixDo1850_3 = '';
         $var = 1;
         $masterZmiana2 = '';
     }
