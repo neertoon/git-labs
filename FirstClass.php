@@ -15,6 +15,8 @@ class FirstClass
         //some code 2
         $var = 2;
         $poMerguDodajeTutajCos = '';
+        
+        $masterBugFix2 = '2';
     }
     
     public function third() {
