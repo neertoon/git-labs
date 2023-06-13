@@ -9,6 +9,7 @@ class FirstClass
         $inMeanTimeIAddNewCodeToMaster = '';
         
         $masterBugFix = '1';
+        $zmienna = 1;
     }
     
     public function secound() {
