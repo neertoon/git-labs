@@ -17,6 +17,7 @@ class FirstClass
         $poMerguDodajeTutajCos = '';
         
         $masterBugFix2 = '2';
+        $inna = 1;
     }
     
     public function third() {
