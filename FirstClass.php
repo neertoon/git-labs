@@ -22,7 +22,7 @@ class FirstClass
     
     public function third() {
         //sobe code 3
-        $var = 3;
+        $var = 32;
         $tutajKodzeNormalnieMaster = '';
     }
 }
