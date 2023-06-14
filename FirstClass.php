@@ -5,7 +5,7 @@ class FirstClass
 {
     public function first() {
         //some code 1
-        $var = 12;
+        $var = 123;
         $inMeanTimeIAddNewCodeToMaster = '';
         
         $masterBugFix = '1';
