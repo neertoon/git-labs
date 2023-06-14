@@ -3,7 +3,7 @@
 class FourClass
 {
     public function first() {
-        $var = 12;
+        $var = 123;
         $dodajeDoMastera = '';
         $releaseTuPoprawa = '';
         $releaseKolejnaPoprawa2 = '';
