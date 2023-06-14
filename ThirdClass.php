@@ -20,7 +20,7 @@ class ThirdClass
     }
 
     public function third() {
-        $var = 3;
+        $var = 3123;
         $zmiana1 = '';
         $zmiana2 = '';
         $zmiana3 = '';
