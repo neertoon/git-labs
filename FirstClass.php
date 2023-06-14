@@ -14,7 +14,7 @@ class FirstClass
     
     public function secound() {
         //some code 2
-        $var = 2;
+        $var = 22;
         $poMerguDodajeTutajCos = '';
         
         $masterBugFix2 = '2';
