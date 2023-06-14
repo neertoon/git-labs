@@ -25,6 +25,6 @@ class FirstClass
         //sobe code 3
         $var = 32;
         $tutajKodzeNormalnieMaster = '';
-        $zmianaTu = 12;
+        $zmianaTu = 123;
     }
 }
