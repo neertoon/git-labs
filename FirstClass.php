@@ -10,6 +10,7 @@ class FirstClass
         
         $masterBugFix = '1';
         $zmienna = 12;
+        $zmiana1 = 'poprawka';
     }
     
     public function secound() {
