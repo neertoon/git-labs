@@ -20,6 +20,7 @@ class FirstClass
         
         $masterBugFix2 = '2';
         $inna = 12;
+        $jakasFunkcjonalnosc = 'nowa';
     }
     
     public function third() {
