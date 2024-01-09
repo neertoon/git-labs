@@ -21,6 +21,7 @@ class FirstClass
         $masterBugFix2 = '2';
         $inna = 12;
         $jakasFunkcjonalnosc = 'nowa';
+        $zmianaMaseter = 'd';
     }
     
     public function third() {
