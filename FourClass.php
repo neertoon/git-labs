@@ -7,6 +7,7 @@ class FourClass
         $dodajeDoMastera = '';
         $releaseTuPoprawa = '';
         $releaseKolejnaPoprawa2 = '';
+        $zmiana3 = 'test';
     }
 
     public function secound() {

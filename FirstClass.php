@@ -31,5 +31,6 @@ class FirstClass
         $zmianaTu = 123;
         $zmiana1 = 1;
         $zmiana1 = 2;
+        $zmiana1 = 3;
     }
 }
