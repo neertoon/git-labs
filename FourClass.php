@@ -15,6 +15,7 @@ class FourClass
         $var = 2;
         $wMiedzyCzasieCosKodzimy = '';
         $znowuZmianyMaster = '';
+        $ale = 1;
     }
 
     public function third() {
