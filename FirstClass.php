@@ -30,5 +30,6 @@ class FirstClass
         $tutajKodzeNormalnieMaster = '';
         $zmianaTu = 123;
         $zmiana1 = 1;
+        $zmiana1 = 2;
     }
 }
