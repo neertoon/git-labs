@@ -29,6 +29,5 @@ class FirstClass
         $var = 32;
         $tutajKodzeNormalnieMaster = '';
         $zmianaTu = 123;
-        $zmiana1 = 1;
     }
 }
