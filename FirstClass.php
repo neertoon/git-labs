@@ -18,7 +18,7 @@ class FirstClass
         $var = 2222;
         $poMerguDodajeTutajCos = '';
         
-        $masterBugFix2 = '3';
+        $masterBugFix2 = '4';
         $inna = 12;
         $jakasFunkcjonalnosc = 'nowa';
         $zmianaMaseter = 'd';
